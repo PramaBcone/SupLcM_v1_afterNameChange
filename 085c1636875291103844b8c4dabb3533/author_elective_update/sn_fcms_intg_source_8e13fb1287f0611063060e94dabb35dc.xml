@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_fcms_intg_source">
+    <sn_fcms_intg_source action="DELETE">
+        <erp>sap</erp>
+        <fin_erp display_value="322a6f248758611063060e94dabb35">47450cf7875c61108dd710683cbb3577</fin_erp>
+        <inactive>false</inactive>
+        <name>SAP ECC 2</name>
+        <sys_class_name>sn_fcms_intg_source</sys_class_name>
+        <sys_created_by>Prama</sys_created_by>
+        <sys_created_on>2023-02-06 12:21:10</sys_created_on>
+        <sys_id>8e13fb1287f0611063060e94dabb35dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SAP ECC 2</sys_name>
+        <sys_package display_value="Supplier Lifecycle Management Integration with SAP" source="sn_slm_sap_int">085c1636875291103844b8c4dabb3533</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Supplier Lifecycle Management Integration with SAP">085c1636875291103844b8c4dabb3533</sys_scope>
+        <sys_update_name>sn_fcms_intg_source_8e13fb1287f0611063060e94dabb35dc</sys_update_name>
+        <sys_updated_by>Prama</sys_updated_by>
+        <sys_updated_on>2023-02-06 12:21:10</sys_updated_on>
+        <u_connection display_value="sn_sap_ecc_rfc_spo.SAP_ECC">d0578871dbad8010ea4494d9db9619d9</u_connection>
+    </sn_fcms_intg_source>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Supplier Lifecycle Management Integration with SAP">085c1636875291103844b8c4dabb3533</application>
+        <file_path/>
+        <instance_id>0b7aba5fdb8c2d104d2bac44d49619ef</instance_id>
+        <instance_name>psmdev601</instance_name>
+        <name>sn_fcms_intg_source_8e13fb1287f0611063060e94dabb35dc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_fcms_intg_source"><sn_fcms_intg_source action="INSERT_OR_UPDATE"><erp>sap</erp><fin_erp display_value="322a6f248758611063060e94dabb35">47450cf7875c61108dd710683cbb3577</fin_erp><inactive>false</inactive><name>SAP ECC 2</name><sys_class_name>sn_fcms_intg_source</sys_class_name><sys_created_by>Prama</sys_created_by><sys_created_on>2023-02-06 12:21:10</sys_created_on><sys_id>8e13fb1287f0611063060e94dabb35dc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>SAP ECC 2</sys_name><sys_package display_value="Supplier Lifecycle Management Integration with SAP" source="sn_slm_sap_int">085c1636875291103844b8c4dabb3533</sys_package><sys_policy/><sys_scope display_value="Supplier Lifecycle Management Integration with SAP">085c1636875291103844b8c4dabb3533</sys_scope><sys_update_name>sn_fcms_intg_source_8e13fb1287f0611063060e94dabb35dc</sys_update_name><sys_updated_by>Prama</sys_updated_by><sys_updated_on>2023-02-06 12:21:10</sys_updated_on><u_connection display_value="sn_sap_ecc_rfc_spo.SAP_ECC">d0578871dbad8010ea4494d9db9619d9</u_connection></sn_fcms_intg_source></record_update>]]></payload>
+        <payload_hash>39131698</payload_hash>
+        <record_name>SAP ECC 2</record_name>
+        <reverted_from/>
+        <source>9511abde8770611063060e94dabb3591</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Prama</sys_created_by>
+        <sys_created_on>2023-02-06 12:21:10</sys_created_on>
+        <sys_id>5223735287f0611063060e94dabb3593</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18626ac4ab80000001</sys_recorded_at>
+        <sys_updated_by>Prama</sys_updated_by>
+        <sys_updated_on>2023-02-06 12:21:10</sys_updated_on>
+        <type>ERP Source Configuration</type>
+        <update_guid>9623fb1283f061104c125fef6763d5e3</update_guid>
+        <update_guid_history>9623fb1283f061104c125fef6763d5e3:39131698</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="SAP ECC 2">5d33735287f0611063060e94dabb359e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Prama</sys_created_by>
+        <sys_created_on>2023-02-06 12:21:23</sys_created_on>
+        <sys_db_object display_value="" name="sn_fcms_intg_source">sn_fcms_intg_source</sys_db_object>
+        <sys_id>0355c434d2f44e80b46ab22a40872100</sys_id>
+        <sys_metadata>8e13fb1287f0611063060e94dabb35dc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SAP ECC 2</sys_name>
+        <sys_package display_value="Supplier Lifecycle Management Integration with SAP" source="sn_slm_sap_int">085c1636875291103844b8c4dabb3533</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Supplier Lifecycle Management Integration with SAP">085c1636875291103844b8c4dabb3533</sys_scope>
+        <sys_scope_delete display_value="">06b0e458e23945cf91f45fbf3ad397d1</sys_scope_delete>
+        <sys_update_name>sn_fcms_intg_source_8e13fb1287f0611063060e94dabb35dc</sys_update_name>
+        <sys_update_version display_value="sn_fcms_intg_source_8e13fb1287f0611063060e94dabb35dc">5223735287f0611063060e94dabb3593</sys_update_version>
+        <sys_updated_by>Prama</sys_updated_by>
+        <sys_updated_on>2023-02-06 12:21:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
